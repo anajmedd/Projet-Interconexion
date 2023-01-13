@@ -11,7 +11,7 @@
 
 ## About
 
-<p>We are developing the architectures and algorithms essential to interconnect our autonomous system to other AS.</p>
+<p>This project demonstrates the interconnection of autonomous services using Docker. The project includes multiple microservices that communicate with each other to perform a specific task. Each service is packaged and deployed as a Docker container, allowing for easy scaling and management of the services. The project also includes scripts and configurations for setting up a Docker network and running the services in a coordinated manner.</p>
 
 
 ## Run
