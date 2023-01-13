@@ -17,7 +17,7 @@
 ## Run
 
 Open a gitBash, paste :
-                "`git clone https://github.com/anajmedd/Projet-Interconexion.git`"
+                "``"git clone https://github.com/anajmedd/Projet-Interconexion.git"``"
 
 Open a terminal, and type :<br>
 
