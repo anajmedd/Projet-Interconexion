@@ -16,7 +16,7 @@
 
 ## Run
 
-Open a gitBash, paste :
+Open a GitBash, paste :
                 ```git clone https://github.com/anajmedd/Projet-Interconexion.git```
 
 Open a terminal, and type :<br>
