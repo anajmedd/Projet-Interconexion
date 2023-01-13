@@ -17,8 +17,8 @@
 ## Run
 
 Open a terminal, and type :<br>
-
-	cd Bureau//Projet-Interconnexion
+        
+	cd Projet-Interconnexion/
 	chmod +x projet.sh
 	./projet.sh
 
