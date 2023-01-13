@@ -17,6 +17,7 @@
 ## Run
 
 Open a terminal, and type :<br>
+
         git clone https://github.com/anajmedd/Projet-Interconexion.git
 	cd Projet-Interconnexion/
 	chmod +x projet.sh
