@@ -18,7 +18,7 @@
 
 Open a gitBash, paste :<br>
                 git clone https://github.com/anajmedd/Projet-Interconexion.git
-
+:<br>
 Open a terminal, and type :<br>
 
         git clone https://github.com/anajmedd/Projet-Interconexion.git
