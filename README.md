@@ -1,7 +1,7 @@
 <div class="logo"><img src="Docker.png" width="250px" align="right"></div>
 
 
-# Interconnexion between AS
+#  interconnection of autonomous services
 
 ## Table of Contents
 
